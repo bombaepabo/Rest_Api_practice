@@ -1,7 +1,6 @@
-using System; 
-namespace Catalog.Entities
-{
-public record Item
+using System ;
+namespace Catalog.DTO{
+    public record ItemDTO
 {
     public Guid Id {get; init ; }
     public string nameof {get; init;}

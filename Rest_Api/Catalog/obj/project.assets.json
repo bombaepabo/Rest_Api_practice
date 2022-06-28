@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\inw11\\Rest_Api\\Catalog\\Catalog.csproj",
+      "projectUniqueName": "C:\\project\\Rest_Api_practice\\Rest_Api\\Catalog\\Catalog.csproj",
       "projectName": "Catalog",
-      "projectPath": "C:\\Users\\inw11\\Rest_Api\\Catalog\\Catalog.csproj",
+      "projectPath": "C:\\project\\Rest_Api_practice\\Rest_Api\\Catalog\\Catalog.csproj",
       "packagesPath": "C:\\Users\\inw11\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\inw11\\Rest_Api\\Catalog\\obj\\",
+      "outputPath": "C:\\project\\Rest_Api_practice\\Rest_Api\\Catalog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\inw11\\AppData\\Roaming\\NuGet\\NuGet.Config"
